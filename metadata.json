@@ -1,0 +1,5 @@
+{
+  "name": "Scripture Scholar",
+  "description": "A modern Bible trivia application featuring an instructor mode for content management and AI-powered question generation using Gemini 3.0.",
+  "requestFramePermissions": []
+}
